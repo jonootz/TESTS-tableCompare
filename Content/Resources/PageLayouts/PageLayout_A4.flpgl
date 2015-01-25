@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="20px" PageSize="A4" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" PageType="first">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" Right="0" Bottom="0px" X="0px" Y="0" Width="0" Height="0">
+        </Frame>
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="A4" PaddingLeft="10mm" PaddingRight="20mm" PaddingTop="20mm" PaddingBottom="15mm" PageType="left" Name="Left">
+        <Frame X="0px" Y="-7.58333mm" Width="180mm" Height="4.9375mm" Flow="header" Right="0px" Bottom="1018px" Anchors="Left,Right" BorderBottomStyle="solid" BorderBottomWidth="1px" BorderBottomColor="#009cdd">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                        <xhtml:link xhtml:href="../TableStyles/tabelle03_small.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="width: 100%;margin-left: 0;margin-right: auto;caption-side: top;mc-table-style: url('../TableStyles/tabelle03_small.css');" xhtml:class="TableStyle_tabelle03_small" xhtml:cellspacing="0">
+                            <xhtml:col />
+                            <xhtml:col xhtml:style="width: 19px;" />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td xhtml:class="TableStyle_tabelle03_small_Body_0_0_RowEnd_ColSep">
+                                        <xhtml:img xhtml:src="../Images/Allgemein/amk_logo_print_header_1.png" xhtml:style="height: auto;width: 12mm;" />
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:class="TableStyle_tabelle03_small_Body_0_0_RowEnd_ColSep">&#160;</xhtml:td>
+                                    <xhtml:td xhtml:class="TableStyle_tabelle03_small_Body_0_0_RowEnd_ColEnd" xhtml:style="text-align: right;"><MadCap:variable xhtml:name="MyVariables.Vorlaeufig" MadCap:conditions="AMK.Vorläufig" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="0" Y="0" Width="0" Height="0" Flow="body" Right="0" Bottom="0" Anchors="Left,Right,Top,Bottom" />
+        <Frame X="0" Y="266mm" Width="180mm" Height="5mm" Flow="footer" Right="0px" Bottom="0px" Anchors="Left,Right" BorderTopStyle="solid" BorderTopWidth="1px" BorderTopColor="#009cdd">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                        <xhtml:link xhtml:href="../TableStyles/tabelle03.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="width: 100%; mc-table-style: url('../TableStyles/tabelle03.css'); margin-left: 0; margin-right: auto;" xhtml:class="TableStyle_tabelle03" xhtml:cellspacing="0">
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td xhtml:class="TableStyle_tabelle03_Body_0_0_RowEnd_ColSep">
+                                        <xhtml:p><MadCap:variable xhtml:name="System.PageNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> / <MadCap:variable xhtml:name="System.PageCount" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> <![CDATA[ ]]></xhtml:p>
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:class="TableStyle_tabelle03_Body_0_0_RowEnd_ColEnd">
+                                        <xhtml:p xhtml:class="rechtsbündig_AMK"><MadCap:variable xhtml:name="MyVariables.Dokumentname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> / Version <MadCap:variable xhtml:name="MyVariables.Stand" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></xhtml:p>
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="A4" PaddingLeft="20mm" PaddingRight="10mm" PaddingTop="20mm" PaddingBottom="15mm" PageType="right" Name="Right">
+        <Frame X="0px" Y="-8mm" Width="180mm" Height="5mm" Flow="header" Right="0px" Bottom="1018px" Anchors="Left,Right" BorderBottomStyle="solid" BorderBottomWidth="1px" BorderBottomColor="#009cdd" PaddingLeft="0px" PaddingRight="0px" ColumnCount="1">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                        <xhtml:link xhtml:href="../TableStyles/tabelle03_small.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="width: 100%;margin-left: 0;margin-right: auto;caption-side: top;mc-table-style: url('../TableStyles/tabelle03_small.css');" xhtml:class="TableStyle_tabelle03_small" xhtml:cellspacing="0">
+                            <xhtml:col />
+                            <xhtml:col xhtml:style="width: 19px;" />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td xhtml:class="TableStyle_tabelle03_small_Body_0_0_RowEnd_ColSep"><MadCap:variable xhtml:name="MyVariables.Vorlaeufig" MadCap:conditions="AMK.Vorläufig" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:class="TableStyle_tabelle03_small_Body_0_0_RowEnd_ColSep">&#160;</xhtml:td>
+                                    <xhtml:td xhtml:class="TableStyle_tabelle03_small_Body_0_0_RowEnd_ColEnd">
+                                        <xhtml:p xhtml:class="Fett_11_AMK" xhtml:style="text-align: right;">
+                                            <xhtml:img xhtml:src="../Images/Allgemein/amk_logo_print_header_1.png" xhtml:style="height: auto;width: 12mm;" />
+                                        </xhtml:p>
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="0" Y="0" Width="0" Height="0" Flow="body" Right="0" Bottom="0" Anchors="Left,Right,Top,Bottom" PaddingLeft="0px" PaddingRight="0px" />
+        <Frame X="0px" Y="266mm" Width="180mm" Height="5mm" Flow="footer" Right="0" Bottom="0px" Anchors="Left,Right" PaddingLeft="0px" PaddingRight="0px" BorderTopStyle="solid" BorderTopWidth="1px" BorderTopColor="#009cdd">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                        <xhtml:link xhtml:href="../TableStyles/tabelle03.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="width: 100%; mc-table-style: url('../TableStyles/tabelle03.css'); margin-left: 0; margin-right: auto;" xhtml:class="TableStyle_tabelle03" xhtml:cellspacing="0">
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td xhtml:class="TableStyle_tabelle03_Body_0_0_RowEnd_ColSep">
+                                        <xhtml:p><MadCap:variable xhtml:name="MyVariables.Dokumentname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> / Version <MadCap:variable xhtml:name="MyVariables.Stand" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> <![CDATA[ ]]></xhtml:p>
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:class="TableStyle_tabelle03_Body_0_0_RowEnd_ColEnd">
+                                        <xhtml:p xhtml:class="rechtsbündig_AMK"><MadCap:variable xhtml:name="System.PageNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> / <MadCap:variable xhtml:name="System.PageCount" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></xhtml:p>
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

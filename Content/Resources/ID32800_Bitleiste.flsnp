@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="1461" MadCap:lastWidth="999">
+    <head>
+        <link href="../../../../../../Resources/TableStyles/tabelle03.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../../../../Resources/TableStyles/tabelle04.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;mc-table-style: url('../../../../../../Resources/TableStyles/tabelle04.css');margin-left: 0;margin-right: auto;caption-side: top;" class="TableStyle_tabelle04" cellspacing="0">
+            <caption>Bedeutung der Bits ID32800 - ID32809</caption>
+            <col style="width: 10%;" />
+            <col style="width: 10%;" />
+            <col style="width: 80%;" />
+            <thead>
+                <tr>
+                    <th class="TableStyle_tabelle04_Head_0_0_RowSep_ColSep">
+                        <p class="Fett_Standard_AMK">Bit-Nr.</p>
+                    </th>
+                    <th class="TableStyle_tabelle04_Head_0_0_RowSep_ColSep">
+                        <p class="Fett_Standard_AMK">Zustand</p>
+                    </th>
+                    <th class="TableStyle_tabelle04_Head_0_0_RowSep_ColEnd">
+                        <p class="Fett_Standard_AMK">Bedeutung</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep" rowspan="8">
+                        <p>0-3</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0x0</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Keine Betriebsart definiert</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0x1</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Reserviert</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0x2</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Drehmomentsteuerung</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0x3</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Drehzahlregelung</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0x4</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Lageregelung</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">0x5</td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Parallelschaltung Servoregler (Betriebsart für den Slave)</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0x6</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Reserviert</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0x7</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Reserviert</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep" rowspan="2">
+                        <p>4</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Drehmomentbegrenzung per ID82, ID83, (ID92)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Drehmomentbegrenzung per Analogeingang A2</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep" rowspan="2">
+                        <p>5</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Reserviert</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Reserviert</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep" rowspan="2">
+                        <p>6</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Sollwertrampe inaktiv</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Sollwertrampe in der Betriebsart Drehzahlregelung (ID32780, ID32781) aktiv</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep" rowspan="2">
+                        <p>7</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Drehzahlfeininterpolator (FIPO) inaktiv</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Drehzahlfeininterpolator (FIPO) in der Betriebsart Drehzahlregelung aktiv (wirkt nicht bei analoger Sollwertvorgabe!) <br />Der Drehzahlfeininterpolator liefert 1 Drehzahlsollwert/250µs, synchronisiert zu ID2 <MadCap:variable name="Parameternamen.ID00002" />.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep" rowspan="2">
+                        <p rowspan="2">8</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Lagereglertyp P-Regler</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Reserviert</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep" rowspan="2">
+                        <p rowspan="2">9</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Schleppabstandskompensation  (SAK) inaktiv</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Schleppabstandskompensation in der Betriebsart Lageregelung für Sollwerte über ID47 und Sollwerte vom antriebsinternen Interpolator </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep" rowspan="2">
+                        <p rowspan="2">10</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Lagefeininterpolator (FIPO) inaktiv</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Lagefeininterpolator (FIPO) in der Betriebsart Lageregelung aktiv </p>
+                        <p>Der Lagefeininterpolator liefert 1 Lagesollwert/250µs, synchronisiert zu ID2 <MadCap:variable name="Parameternamen.ID00002" />.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep" rowspan="2">
+                        <p rowspan="2">11</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Schleppakstandskomensation (SAK) inaktiv</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Schleppabstandkompensation in der Betriebsart Lageregelung für Sollwerte über Impulsgebereingang aktiv</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep" rowspan="2">
+                        <p rowspan="2">12</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Reserviert</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Reserviert</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep" rowspan="2">
+                        <p rowspan="2">13</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Modulo-Wert wird aus der der aktiven Lageistwertquelle (siehe Bit 14) gebildet.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Modulo-Wert wird nach ID103 gebildet.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep" rowspan="2">
+                        <p rowspan="2">14</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Lageistwertquelle Motorgeber ID32953, ID116</p>
+                        <table style="mc-table-style: url('../../../../../../Resources/TableStyles/tabelle03.css');caption-side: top;margin-left: 0;margin-right: auto;width: 100%;" class="TableStyle_tabelle03" cellspacing="0">
+                            <col style="width: 25mm;" />
+                            <col />
+                            <tbody>
+                                <tr>
+                                    <td class="TableStyle_tabelle03_Body_0_0_RowEnd_ColSep">
+                                        <img src="../../../../../../Resources/Images/Allgemein/Hand_300dpi.png" class="Bild01_AMK" MadCap:conditions="AMK.Handbuch_A4">
+                                        </img>
+                                        <p>
+                                            <img src="../../../../../../Resources/Images/Allgemein/Hand_72dpi.png" MadCap:conditions="AMK.Online" class="Bild01_AMK" />
+                                        </p>
+                                    </td>
+                                    <td class="TableStyle_tabelle03_Body_0_0_RowEnd_ColEnd">
+                                        <p>Die Lageistwertquelle muss in der <MadCap:variable name="Parameternamen.ID32800" /> eingestellt werden und gilt automatisch für alle Betriebsarten.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Lageistwertquelle externer Geber ID32953, ID117, ID115, Getriebeverhältnis ID121, ID122 wird berücksichtigt</p>
+                        <table style="mc-table-style: url('../../../../../../Resources/TableStyles/tabelle03.css');caption-side: top;margin-left: 0;margin-right: auto;width: 100%;" class="TableStyle_tabelle03" cellspacing="0">
+                            <col style="width: 25mm;" />
+                            <col />
+                            <tbody>
+                                <tr>
+                                    <td class="TableStyle_tabelle03_Body_0_0_RowEnd_ColSep">
+                                        <img src="../../../../../../Resources/Images/Allgemein/Hand_300dpi.png" class="Bild01_AMK" MadCap:conditions="AMK.Handbuch_A4">
+                                        </img>
+                                        <p>
+                                            <img src="../../../../../../Resources/Images/Allgemein/Hand_72dpi.png" MadCap:conditions="AMK.Online" class="Bild01_AMK" />
+                                        </p>
+                                    </td>
+                                    <td class="TableStyle_tabelle03_Body_0_0_RowEnd_ColEnd">Die Lageistwertquelle muss in der <MadCap:variable name="Parameternamen.ID32800"></MadCap:variable> eingestellt werden und gilt automatisch für alle Betriebsarten.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep" rowspan="2">
+                        <p rowspan="2">15</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Reserviert</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Reserviert</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep" rowspan="5">
+                        <p rowspan="2">16-23</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0x01</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Analogeingang A1</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">0x03</td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Impulsgebereingang</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">0x43</td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Zyklische Sollwertvorgabe über Feldbus</p>
+                        <ul>
+                            <li>ID36 <MadCap:variable name="Parameternamen.ID00036" /></li>
+                            <li>ID47 <MadCap:variable name="Parameternamen.ID00047" /></li>
+                            <li>ID80 <MadCap:variable name="Parameternamen.ID00080" /></li>
+                        </ul>
+                        <p>Zuzüglich Vorsteuerwerte</p>
+                        <ul>
+                            <li>ID37 <MadCap:variable name="Parameternamen.ID00037" /></li>
+                            <li>ID81 <MadCap:variable name="Parameternamen.ID00081" /></li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0x44</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Interner Interpolator</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0x48</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">
+                        <p>Reserviert für AMK interne Nutzung: Sollwertvorgabe durch interne Module</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep" rowspan="2">
+                        <p rowspan="2">24-31</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColSep">
+                        <p>0</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowSep_ColEnd">Reserviert</td>
+                </tr>
+                <tr>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowEnd_ColSep">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle_tabelle04_Body_0_0_RowEnd_ColEnd">Reserviert</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
